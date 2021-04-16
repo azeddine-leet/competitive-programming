@@ -1,0 +1,6 @@
+read length
+read character by character
+	ever time i found an open braket i add it to an array (stack)
+	if i found a closed bracket i decrease the index on stack by one 
+
+if the stack is emty than print 1 else 0.
